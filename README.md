@@ -1,6 +1,9 @@
 # 👋 Welcome to Savannatek!
 
-![Savannatek Banner](https://your-custom-banner-url.com/banner.png) 
+<p align="center">
+  <img src="https://github.com/Savannatek.png" width="120" alt="Savannatek Logo"/>
+</p>
+
 
 ## 💡 About Us
 
