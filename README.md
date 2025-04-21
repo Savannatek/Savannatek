@@ -38,7 +38,7 @@ We love to connect, collaborate, and create amazing things together. Reach out t
 
 - 💼 [LinkedIn](https://linkedin.com/company/savannatek/)
 - 🐦 [Twitter](https://twitter.com/savannatek)  
-- 📸 [Instagram](https://instagram.com/savannatek)  
+- 📸 [Instagram](https://instagram.com/savanna.tek)  
 - 🌐 [Website](https://savannatek.vercel.app/)
 - 📫 Email: savannatek.ke@gmail.com 
 
