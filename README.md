@@ -50,7 +50,7 @@ We believe in the power of connection, collaboration, and co-creation. Reach out
 - 📸 [Instagram](https://instagram.com/savanna.tek)  
 - 🌐 [Website](https://savannatek.vercel.app/)
 - 📫 Email: savannatek.ke@gmail.com 
-- 📱 Phone: +254 (0) 700 000 000
+- 📱 Phone: +254 793 052198
 
 ---
 
