@@ -36,10 +36,10 @@ We ensure your digital assets are safe through advanced security protocols and s
 
 We love to connect, collaborate, and create amazing things together. Reach out to us anytime!
 
-- 💼 [LinkedIn]((https://linkedin.com/company/savannatek/))  
+- 💼 [LinkedIn](https://linkedin.com/company/savannatek/)
 - 🐦 [Twitter](https://twitter.com/savannatek)  
 - 📸 [Instagram](https://instagram.com/savannatek)  
-- 🌐 [Website](https://savannatek.vercel.app/)) 
+- 🌐 [Website](https://savannatek.vercel.app/)
 - 📫 Email: savannatek.ke@gmail.com 
 
 ---
